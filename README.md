@@ -202,9 +202,3 @@ INNER JOIN WarehouseCosts AS wc
 🔗 **LinkedIn:** [www.linkedin.com/in/eden-nguyen](https://www.linkedin.com/in/eden-nguyen)  
 🌐 **Portfolio Website:** [eden-nguyen.vercel.app](https://eden-nguyen.vercel.app/)  
 
-### 🔥 **Enhancements in This README:**
-✅ **Well-structured SQL queries and insights**  
-✅ **Explained trends and findings from each analysis**  
-✅ **Recommended future improvements**  
-
-Let me know if you need **any modifications or additional details!** 🚀
