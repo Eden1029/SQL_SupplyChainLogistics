@@ -1,7 +1,7 @@
 # 🚚 Supply Chain Logistics Analysis - SQL Project  
 
 ## 📌 Overview  
-This **SQL-based Supply Chain Logistics Analysis Project** aims to optimize **order management, warehouse utilization, shipping efficiency, freight cost analysis, and carrier performance**.  
+This **T-SQL - based Supply Chain Logistics Analysis Project** aims to optimize **order management, warehouse utilization, shipping efficiency, freight cost analysis, and carrier performance**.  
 The project provides insights into:  
 ✅ **Total orders and weight analysis by plant**  
 ✅ **Product demand trends**  
